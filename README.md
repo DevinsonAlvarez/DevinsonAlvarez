@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hola, mi nombre es Devinson Alvarez
 
-<!--
-**DevinsonAlvarez/DevinsonAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior web developer
 
-Here are some ideas to get you started:
+Soy un entusiasta del hardware y me apasiona el mundo informático. En 2020 comencé mi camino como programador creando pequeñas aplicaciones monolíticas y algunos experimentos con fines recreativos, no fue hasta 2022 que comencé a desarrollar mi primer proyecto formal que me adentre de lleno al mundo del desarrollo web. Me apasiona la programación y me gusta mucho resolver problemas, continuaré mejorando y creciendo como persona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+* PHP
+* HTML
+* CSS
+* MySQL
+* Laravel
